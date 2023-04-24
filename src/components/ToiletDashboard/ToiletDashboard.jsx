@@ -11,7 +11,7 @@ const ToiletDashboardPage = () => {
     // Access individual query parameters by calling .get() method on queryParams object
   const deviceId = queryParams.get('deviceId');
   console.log("this is deviceID",deviceId); // ▶ URLSearchParams {}
-
+   //write
 
 
 
